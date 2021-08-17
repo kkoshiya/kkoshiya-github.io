@@ -79,6 +79,18 @@ body {
     font-size: 150%;
 }
 
+
+#skill-img{
+    height: 45px;
+    width: 45px;
+    overflow:hidden;
+}
+
+.skill-text {
+    font-weight: 500;
+    padding-top: 3%;
+}
+
 .year {
     font-weight: 500;
     font-size: 110%;
