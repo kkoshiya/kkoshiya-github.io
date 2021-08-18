@@ -131,3 +131,26 @@ body {
     width: 104.2%;
 
 }
+
+.welcome {
+    margin-top: 6%;
+}
+
+.bio-text {
+    padding-top: 5%;
+    font-weight: 500;
+    font-size: 125%;
+}
+
+.project-container {
+    margin-right: 5%;
+}
+
+.project-title {
+    font-weight: 400; 
+    font-size: 200%; 
+}
+
+.project-link {
+    padding-right: 1%;
+}
